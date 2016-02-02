@@ -80,6 +80,10 @@ img {
   box-sizing: border-box;
 }
 
+#img-special {
+  margin-bottom: 20px;
+}
+
 iframe {
   width: 560px;
   display: block;
